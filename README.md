@@ -28,7 +28,7 @@ To set this up on your local machine, follow the instructions below:
 * Install [Java](https://java.com)
 * Install [Elasticsearch](https://elastic.co)
 * Run `npm i` to install dependencies
-* Run `npm start` to run the code
+* Run `npm start` to start the local server
 
 ## FAQ
 
